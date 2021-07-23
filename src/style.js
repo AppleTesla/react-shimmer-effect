@@ -1,8 +1,8 @@
 const styles = {
   shimmer: {
-    background: '#f2f2f2',
+    background: '#3a333d',
     display: 'inline-block',
-    backgroundImage: 'linear-gradient(to right,#eeeeee 40%,#dddddd 50%,#eeeeee 60%)',
+    backgroundImage: 'linear-gradient(to right,#3a333d 40%,#dddddd 50%,#3a333d 60%)',
     backgroundSize: '800px 104px',
     backgroundRepeat: 'no-repeat',
     animation: 'shimmerAnim 2s infinite linear',
